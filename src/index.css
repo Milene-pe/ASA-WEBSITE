@@ -1,0 +1,62 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  @apply font-body text-brand-black antialiased;
+}
+
+h1, h2, h3, h4 {
+  @apply font-display;
+}
+
+/* Custom scrollbar for horizontal carousels */
+.scrollbar-hide::-webkit-scrollbar {
+  display: none;
+}
+.scrollbar-hide {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+.text-shine {
+  background: linear-gradient(90deg, #141414 0%, #D71920 50%, #141414 100%);
+  background-size: 200% auto;
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+
+.btn-shine {
+  position: relative;
+  overflow: hidden;
+}
+.btn-shine::after {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: -75%;
+  width: 50%;
+  height: 100%;
+  background: linear-gradient(120deg, transparent, rgba(255,255,255,0.55), transparent);
+  transform: skewX(-20deg);
+  animation: shineSweep 3s ease-in-out infinite;
+}
+@keyframes shineSweep {
+  0% { left: -75%; }
+  50% { left: 130%; }
+  100% { left: 130%; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.001ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.001ms !important;
+    scroll-behavior: auto !important;
+  }
+}

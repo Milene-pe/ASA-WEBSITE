@@ -1,0 +1,220 @@
+[
+  {
+    "id": 1,
+    "numero": 1,
+    "nombre": "Glenny Marcos Sánchez Orihuela",
+    "cargo": "Candidato a Alcalde",
+    "foto": "/candidatos/marcos.png",
+    "biografia": "POR COMPLETAR",
+    "formacion": [
+      "POR COMPLETAR",
+      "POR COMPLETAR"
+    ],
+    "experiencia": [
+      "POR COMPLETAR",
+      "POR COMPLETAR"
+    ],
+    "propuestas": [
+      "POR COMPLETAR",
+      "POR COMPLETAR",
+      "POR COMPLETAR",
+      "POR COMPLETAR",
+      "POR COMPLETAR"
+    ],
+    "redes": {
+      "facebook": "https://facebook.com/",
+      "tiktok": "https://tiktok.com/"
+    }
+  },
+
+  {
+    "id": 2,
+    "numero": 2,
+    "nombre": "Edgar Cuentas Reyes",
+    "cargo": "Candidato a Regidor",
+    "foto": "/candidatos/edgar.png",
+    "biografia": "POR COMPLETAR",
+    "formacion": [
+      "POR COMPLETAR",
+      "POR COMPLETAR"
+    ],
+    "experiencia": [
+      "POR COMPLETAR",
+      "POR COMPLETAR"
+    ],
+    "propuestas": [
+      "POR COMPLETAR",
+      "POR COMPLETAR",
+      "POR COMPLETAR",
+      "POR COMPLETAR",
+      "POR COMPLETAR"
+    ]
+  },
+  
+  {
+    "id": 3,
+    "numero": 3,
+    "nombre": "Valery Quicaño Aguirre",
+    "cargo": "Candidata a Regidora",
+    "foto": "/candidatos/valery.png",
+    "biografia": "Soy una mujer comprometida con el servicio a mi distrito y con la construcción de un Alto Selva Alegre más justo, seguro y participativo. Mi formación en Derecho y conciliación me ha permitido desarrollar una vocación orientada al diálogo, la defensa de los derechos y la búsqueda de soluciones para los vecinos. Mi compromiso es trabajar con responsabilidad, transparencia y cercanía.",
+    "formacion": [
+      "Estudiante del último año de la carrera de Derecho - Universidad UTP",
+      "Conciliadora Extrajudicial",
+      "Egresada de la Especialización en Conciliación Familiar Pontificia Universidad Católica del Perú."
+    ],
+    "experiencia": [
+      "Asistente Administrativa en Fortaleza de Transportes Arequipa S.A.C.",
+      "Experiencia en gestión administrativa, organización documental y coordinación de procesos administrativos"
+    ],
+
+    "propuestas": [
+      "Saneamiento físico-legal de predios",
+      "Incentivos por puntualidad tributaria",
+      "Programa Paga con Chamba",
+      "Orientación jurídica y conciliación vecinal",
+      "Protección de mujeres y poblaciones vulnerables",
+      "Educación tributaria y cultura ciudadana",
+      "Fiscalización transparente de los recursos públicos"
+    ]
+  },
+
+  {
+    "id": 4,
+    "numero": 4,
+    "nombre": "Elías Cuadros Pinto",
+    "cargo": "Candidato a Regidor",
+    "foto": "/candidatos/elias.png",
+    "biografia": "Soy licenciado químico de profesión, con experiencia en el sector industrial y educativo. A lo largo de mi trayectoria he demostrado compromiso, responsabilidad y vocación de servicio, trabajando tanto en el ámbito empresarial como en la formación de nuevas generaciones. Mi interés por el desarrollo de Alto Selva Alegre me motiva a participar activamente en la gestión pública, con el propósito de impulsar iniciativas que contribuyan al bienestar, la seguridad y el progreso del distrito.",
+    "formacion": [
+      "Licenciado Químico - UNIVERSIDAD",
+      "POR COMPLETAR"
+    ],
+    "experiencia": [
+      "Experiencia en procesos industriales y control de calidad en Productos Carmelita",
+      "Docente y Administrador en la I.E.P. Tomás Marsano, contribuyendo a la formación académica y al desarrollo integral de los estudiantes."
+    ],
+    "propuestas":[
+      "Acceso a servicios básicos de calidad.",
+      "Impulsar proyectos de mejoramiento urbano.",
+      "Recuperación de espacios públicos.",
+      "Fortalecer la participación vecinal.",
+      "Promover la seguridad y convivencia ciudadana.",
+      "Trabajo conjunto para el desarrollo del distrito."
+]
+  },
+
+  {
+    "id": 5,
+    "numero": 5,
+    "nombre": "Margoth Giovanna Valencia Carrión",
+    "cargo": "Candidata a Regidora",
+    "foto": "/candidatos/margoth.png",
+    "biografia": "Soy politóloga por la Universidad Católica de Santa María y estudiante de Derecho en la misma casa de estudios. Mi trayectoria combina experiencia en gestión pública, investigación, liderazgo juvenil y organización de proyectos de alto impacto. He participado en iniciativas académicas, sociales e internacionales vinculadas al fortalecimiento institucional, la formación ciudadana y las políticas públicas, además de desempeñarme en espacios de representación y trabajo colaborativo con instituciones públicas y privadas.",
+    "formacion": [
+      "Licenciada en Ciencia Política y Gobierno por la Universidad Católica de Santa María",
+      "Estudiante de Derecho en la Universidad Católica de Santa María",
+      "Diplomado en Derecho Constitucional (EGEC Perú)",
+      "Diplomado en Control Gubernamental (EGEC Perú)",
+      "Summer School en Políticas Públicas (INFOX/APEECO)",
+      "III Semillero para Futuros Funcionarios Públicos (Cámara de Comercio de Lima)",
+      "Curso “Introducción a la Evaluación de Impacto para la Gestión Pública” (CAF)",
+      "Curso MOOC “Elecciones Generales 2026",
+      "Formación complementaria en liderazgo, gestión pública, derechos humanos, inversión pública, gobernanza y campañas electorales"
+    ],
+    "experiencia": [
+      "Gestora de proyectos de alto impacto en el Center for Applied Research and Development (CARD)",
+      "Traductora e intérprete español-inglés para la Cámara de Comercio Peruano-Sudafricana durante PERUMIN 37",
+       "Voluntaria en APEC Perú 2024.",
+       "Integrante del Parlamento Andino Universitario.",
+       "Miembro del Comité Cívico Anticorrupción de la Región Arequipa.",
+       "Representante y líder en organizaciones juveniles, académicas y de la sociedad civil."
+    ],
+    "propuestas": [
+      "POR COMPLETAR",
+      "POR COMPLETAR",
+      "POR COMPLETAR",
+      "POR COMPLETAR",
+      "POR COMPLETAR"
+    ]
+  },
+
+  {
+    "id": 6,
+    "numero": 6,
+    "nombre": "Gerardo Victor Cupe Zeballos",
+    "cargo": "Candidato a Regidor",
+    "foto": "/candidatos/gerardo.png",
+    "biografia": "Soy un joven comprometido con el servicio público y el desarrollo de Alto Selva Alegre. Cuento con más de cinco años de experiencia en el sector público y he participado activamente en espacios de formación política y liderazgo, juramentando como Joven Parlamentario en los años 2024 y 2025. Mi compromiso es trabajar con transparencia, responsabilidad y cercanía a los vecinos.",
+    "formacion": [
+      "Egresado de la carrera de Computación e Informática – CIBERTEC.",
+      "PJoven Parlamentario 2024 y 2025",
+      "Cursos y capacitaciones en gestión pública, administración pública y atención al ciudadano"
+    ],
+    "experiencia": [
+      "⁠Fiscalizador en la municipalidad provincial de Arequipa",
+      "Inspector de Transporte en la Municipalidad Provincial de Arequipa",
+      "Auxiliar administrativo para atención al público en la municipalidad distrital de Alto Selva Alegre",
+      "Gestor Cultural en la Municipalidad distrital de Alto Selva Alegre",
+      "Más de cinco años de experiencia en el sector público"
+    ],
+    "propuestas": [
+      "Saneamiento físico-legal de predios",
+      "Sesiones municipales en vivo",
+      "Digitalización de trámites",
+      "Biblioteca Municipal para jóvenes",
+      "Escuela de Liderazgo e Innovación",
+      "Ferias laborales y convenios educativos",
+      "Participación ciudadana y juvenil"
+    ]
+  },
+
+  {
+    "id": 7,
+    "numero": 7,
+    "nombre": "Carlos Raúl Gamarra Flores",
+    "cargo": "Candidato a Regidor",
+    "foto": "/candidatos/gamarra.png",
+    "biografia": "Activista ambiental, Carla ha organizado jornadas de reforestación y limpieza en las principales quebradas del distrito.",
+    "formacion": [
+      "POR COMPLETAR",
+      "POR COMPLETAR"
+    ],
+    "experiencia": [
+      "POR COMPLETAR",
+      "POR COMPLETAR"
+    ],
+    "propuestas": [
+      "POR COMPLETAR",
+      "POR COMPLETAR",
+      "POR COMPLETAR",
+      "POR COMPLETAR",
+      "POR COMPLETAR"
+    ]
+  },
+
+
+  {
+    "id": 8,
+    "numero": 8,
+    "nombre": "Josue Sebastian Abarca Medina",
+    "cargo": "Candidato a Regidor",
+    "foto": "/candidatos/josue.png",
+    "biografia": "Lideresa de comedor popular, Rosa conoce de primera mano las necesidades alimentarias de las familias más vulnerables.",
+    "formacion": [
+      "POR COMPLETAR",
+      "POR COMPLETAR"
+    ],
+    "experiencia": [
+      "POR COMPLETAR",
+      "POR COMPLETAR"
+    ],
+    "propuestas": [
+      "POR COMPLETAR",
+      "POR COMPLETAR",
+      "POR COMPLETAR",
+      "POR COMPLETAR",
+      "POR COMPLETAR"
+    ]
+  }
+]

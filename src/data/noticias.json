@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "titulo": "Arequipa Avancemos anuncia nueva etapa del Gran Sorteo",
+    "fecha": "2025-07-10",
+    "imagen": "https://picsum.photos/seed/noticia1/600/400",
+    "resumen": "Miles de vecinos ya se inscribieron para participar por increíbles premios. Conoce cómo sumarte antes de que termine el plazo.",
+    "contenido": "Miles de vecinos ya se inscribieron para participar por increíbles premios como Smart TVs, bicicletas y canastas familiares. El sorteo forma parte de nuestra campaña de acercamiento a la comunidad y busca premiar la fidelidad de quienes nos acompañan cada fin de semana en las actividades del movimiento."
+  },
+  {
+    "id": 2,
+    "titulo": "Jornada de limpieza en la quebrada San Lázaro",
+    "fecha": "2025-07-02",
+    "imagen": "https://picsum.photos/seed/noticia2/600/400",
+    "resumen": "Más de 200 vecinos se sumaron a la jornada organizada junto a nuestra candidata Carla Flores para recuperar espacios verdes.",
+    "contenido": "Más de 200 vecinos se sumaron a la jornada organizada junto a nuestra candidata Carla Flores para recuperar espacios verdes en la zona. La actividad incluyó la siembra de más de 50 árboles nativos y la recolección de residuos sólidos a lo largo de la quebrada."
+  },
+  {
+    "id": 3,
+    "titulo": "Feria productiva reunió a más de 40 emprendedores locales",
+    "fecha": "2025-06-25",
+    "imagen": "https://picsum.photos/seed/noticia3/600/400",
+    "resumen": "La feria impulsada por Juan Pérez permitió a pequeños negocios del distrito mostrar y vender sus productos.",
+    "contenido": "La feria impulsada por Juan Pérez permitió a pequeños negocios del distrito mostrar y vender sus productos ante cientos de visitantes. El evento también incluyó capacitaciones gratuitas sobre formalización y ventas digitales."
+  },
+  {
+    "id": 4,
+    "titulo": "Campaña de salud gratuita atendió a más de 500 familias",
+    "fecha": "2025-06-15",
+    "imagen": "https://picsum.photos/seed/noticia4/600/400",
+    "resumen": "Nuestra candidata Ana Torres lideró una jornada médica con despistaje y atención gratuita en el sector norte.",
+    "contenido": "Nuestra candidata Ana Torres lideró una jornada médica con despistaje y atención gratuita en el sector norte del distrito, en alianza con profesionales de salud voluntarios que ofrecieron controles y orientación nutricional."
+  }
+]

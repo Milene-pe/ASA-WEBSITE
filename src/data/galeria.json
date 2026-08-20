@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "imagen": "/galeria/marcos.jpg",
+    "descripcion": "Compartiendo con nuestros vecinos"
+  },
+  {
+    "id": 2,
+    "imagen": "/galeria/marcos.jpg",
+    "descripcion": "Trabajando junto a nuestra gente"
+  },
+  {
+    "id": 3,
+    "imagen": "/galeria/marcos.jpg",
+    "descripcion": "Actividades con nuestros vecinos"
+  },
+  {
+    "id": 4,
+    "imagen": "/galeria/marcos.jpg",
+    "descripcion": "Juntos por Alto Selva Alegre"
+  },
+  {
+    "id": 5,
+    "imagen": "/galeria/marcos.jpg",
+    "descripcion": "Juntos por Alto Selva Alegre"
+  },
+  {
+    "id": 6,
+    "imagen": "/galeria/marcos.jpg",
+    "descripcion": "Juntos por Alto Selva Alegre"
+  },
+  {
+    "id": 7,
+    "imagen": "/galeria/marcos.jpg",
+    "descripcion": "Juntos por Alto Selva Alegre"
+  }
+]

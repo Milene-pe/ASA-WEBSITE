@@ -1,0 +1,49 @@
+[
+  {
+    "id": 1,
+    "fecha": "10 de agosto de 2026",
+    "cantidad": 10,
+    "ganadores": [
+      {
+        "nombre": "María López",
+        "premio": "Polo oficial"
+      },
+      {
+        "nombre": "Juan Pérez",
+        "premio": "Polo oficial"
+      },
+      {
+        "nombre": "Carlos Quispe",
+        "premio": "Polo oficial"
+      },
+      {
+        "nombre": "Ana Torres",
+        "premio": "Chalina"
+      },
+      {
+        "nombre": "Luis Flores",
+        "premio": "Chalina"
+      },
+      {
+        "nombre": "Sofía Ramos",
+        "premio": "Gorra"
+      },
+      {
+        "nombre": "Pedro Mamani",
+        "premio": "Gorra"
+      },
+      {
+        "nombre": "Lucía Condori",
+        "premio": "Bolsa sorpresa"
+      },
+      {
+        "nombre": "Diego Vargas",
+        "premio": "Bolsa sorpresa"
+      },
+      {
+        "nombre": "Andrea Salas",
+        "premio": "Bolsa sorpresa"
+      }
+    ]
+  }
+]
