@@ -116,7 +116,7 @@ export default function Footer() {
         {/* Línea inferior */}
 
         <div className="mt-14 pt-6 border-t border-white/10 text-center text-sm text-white/40">
-          © {year} Arequipa Avancemos. Todos los derechos reservados.
+          © {year} Alto Selva Alegre · Desarrollo web por Milene Pacheco.
         </div>
 
       </div>
