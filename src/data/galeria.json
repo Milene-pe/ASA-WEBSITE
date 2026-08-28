@@ -1,81 +1,81 @@
 [ 
   {
-    "id": 2,
+    "id": 1,
     "imagen": "/galeria/IMG15.jpeg",
     "descripcion": "Comprometidos con nuestros vecinos"
   },
   {
-    "id": 3,
+    "id": 2,
     "imagen": "/galeria/IMG14.jpeg",
     "descripcion": "Celebrando tradiciones"
   },
   {
-    "id": 4,
+    "id": 3,
     "imagen": "/galeria/IMG13.jpeg",
     "descripcion": "Comprometidos con la seguridad"
   },
   {
-    "id": 5,
+    "id": 4,
     "imagen": "/galeria/IMG12.jpeg",
     "descripcion": "Mercado Villa Hermoza"
   },
   {
-    "id": 6,
+    "id": 5,
     "imagen": "/galeria/IMG11.jpeg",
     "descripcion": "Plan de riegos Programa Municipal"
   },
     {
-    "id": 7,
+    "id": 6,
      "imagen": "/galeria/IMG10.jpeg",
     "descripcion": "Comprometidos con la educación"
   },
     {
-    "id": 8,
+    "id": 7,
     "imagen": "/galeria/IMG9.jpeg",
     "descripcion": "Comprometidos con la seguridad - Calle Alianza"
   },
     {
-    "id": 9,
+    "id": 8,
     "imagen": "/galeria/IMG8.jpeg",
     "descripcion": "Apoyando el deporte"
   },
     {
-    "id": 10,
+    "id": 9,
      "imagen": "/galeria/IMG7.jpeg",
     "descripcion": "Compartiendo nuestra cultura - Bella Esperanza"
   },
     {
-    "id": 11,
+    "id": 10,
     "imagen": "/galeria/IMG6.jpeg",
     "descripcion": "Comprometidos con la salud - Centro de Salud ASA"
   },
     {
-    "id": 12,
+    "id": 11,
     "imagen": "/galeria/IMG5.jpeg",
     "descripcion": "Comprometidos con nuestros vecinos de Z33"
   },
     {
-    "id": 13,
+    "id": 12,
      "imagen": "/galeria/IMG4.jpeg",
     "descripcion": "Juntos por Alto Selva Alegre"
   },
     {
-    "id": 14,
+    "id": 13,
     "imagen": "/galeria/IMG3.jpeg",
     "descripcion": "Presentes en el Mercado de Parque Temático"
   },
     {
-    "id": 15,
+    "id": 14,
     "imagen": "/galeria/IMG2.jpeg",
     "descripcion": "Presentes en tiempo de lluvia - Bella Esperanza"
   },
     {
-    "id": 16,
+    "id": 15,
     "imagen": "/galeria/IMG1.jpeg",
     "descripcion": "Compartiendo en el Mercado Villa Ecológica"
   },
   {
-    "id": 17,
+    "id": 16,
     "imagen": "/galeria/IMG17.PNG",
     "descripcion": "Día del Adulto Mayor"
   }
