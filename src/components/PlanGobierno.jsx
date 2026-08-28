@@ -5,9 +5,10 @@ export default function PlanGobierno() {
   return (
     <section
       id="plan-gobierno"
-      className="py-10 sm:py-14 bg-white scroll-mt-24"
+      className="py-10 sm:py-14 bg-white"
     >
       <div className="max-w-7xl mx-auto px-4 sm:px-6">
+
         <motion.div
           initial={{ opacity: 0, y: 25 }}
           whileInView={{ opacity: 1, y: 0 }}
@@ -21,6 +22,7 @@ export default function PlanGobierno() {
             shadow-xl
           "
         >
+
           {/* CÍRCULO DECORATIVO DERECHO */}
           <div
             className="
@@ -54,51 +56,70 @@ export default function PlanGobierno() {
             className="
               relative
               flex
-              flex-row
+              flex-col
+              lg:flex-row
               items-center
-              gap-5
-              sm:gap-7
+              gap-7
               lg:gap-10
-              px-5
-              py-6
-              sm:px-8
-              sm:py-8
-              lg:px-10
-              lg:py-9
+              px-6
+              py-8
+              sm:px-10
+              sm:py-10
+              lg:px-12
+              lg:py-10
             "
           >
+
             {/* ========================= */}
-            {/* PORTADA DEL PLAN */}
+            {/* PORTADA */}
             {/* ========================= */}
 
-            <div className="shrink-0 flex items-center justify-center">
+            <div
+              className="
+                shrink-0
+                flex
+                items-center
+                justify-center
+                w-full
+                lg:w-auto
+              "
+            >
               <img
                 src="/documentos/portada.png"
-                alt="Plan de Gobierno - Alto Selva Alegre"
+                alt="Plan de Gobierno de Alto Selva Alegre"
                 className="
-                  w-28
-                  sm:w-36
-                  lg:w-48
+                  w-44
+                  sm:w-52
+                  lg:w-56
                   h-auto
                   object-contain
-                  rounded-lg
                   shadow-xl
                 "
               />
             </div>
 
+
             {/* ========================= */}
             {/* TEXTO */}
             {/* ========================= */}
 
-            <div className="min-w-0 flex-1 text-white">
+            <div
+              className="
+                min-w-0
+                flex-1
+                text-white
+                text-center
+                lg:text-left
+                w-full
+              "
+            >
+
               <p
                 className="
                   text-brand-yellow
                   font-bold
-                  text-[10px]
-                  sm:text-xs
-                  lg:text-sm
+                  text-xs
+                  sm:text-sm
                   uppercase
                   tracking-wide
                 "
@@ -108,11 +129,11 @@ export default function PlanGobierno() {
 
               <h2
                 className="
-                  mt-1
+                  mt-2
                   font-display
                   font-extrabold
-                  text-xl
-                  sm:text-3xl
+                  text-3xl
+                  sm:text-4xl
                   lg:text-5xl
                   leading-tight
                 "
@@ -122,19 +143,23 @@ export default function PlanGobierno() {
 
               <p
                 className="
-                  mt-2
-                  text-white/85
-                  text-xs
-                  sm:text-sm
-                  lg:text-base
+                  mt-3
+                  text-white/90
+                  text-sm
+                  sm:text-base
+                  lg:text-lg
                   leading-relaxed
                   max-w-2xl
+                  mx-auto
+                  lg:mx-0
                 "
               >
                 Conoce nuestras propuestas y el compromiso que asumimos
                 para construir un mejor Alto Selva Alegre.
               </p>
+
             </div>
+
 
             {/* ========================= */}
             {/* DESCARGAR */}
@@ -147,23 +172,22 @@ export default function PlanGobierno() {
                 flex-col
                 items-center
                 justify-center
-                border-l
-                border-white/20
-                pl-4
-                sm:pl-7
+                w-full
+                lg:w-auto
+                lg:border-l
+                lg:border-white/20
                 lg:pl-10
               "
             >
+
               {/* ICONO */}
 
               <div
                 className="
-                  w-10
-                  h-10
-                  sm:w-12
-                  sm:h-12
-                  lg:w-14
-                  lg:h-14
+                  w-14
+                  h-14
+                  sm:w-16
+                  sm:h-16
                   rounded-full
                   bg-white
                   flex
@@ -173,21 +197,21 @@ export default function PlanGobierno() {
                 "
               >
                 <FileText
-                  size={22}
-                  className="text-brand-red sm:w-6 sm:h-6"
+                  size={26}
+                  className="text-brand-red"
                 />
               </div>
+
 
               {/* TEXTO */}
 
               <p
                 className="
-                  mt-2
+                  mt-3
                   text-white
                   font-bold
-                  text-[9px]
-                  sm:text-xs
-                  lg:text-sm
+                  text-xs
+                  sm:text-sm
                   uppercase
                   text-center
                   leading-tight
@@ -198,30 +222,25 @@ export default function PlanGobierno() {
                 Plan de Gobierno
               </p>
 
+
               {/* BOTÓN */}
 
               <a
-                href="/documentos/PlanGobiernoASA.pdf"
+                href="/documentos/plan.pdf"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="
-                  mt-3
+                  mt-4
                   inline-flex
                   items-center
                   justify-center
-                  gap-1.5
+                  gap-2
                   bg-brand-yellow
                   text-brand-black
                   font-bold
-                  text-[10px]
-                  sm:text-xs
-                  lg:text-sm
-                  px-3
-                  sm:px-5
-                  lg:px-6
-                  py-2
-                  sm:py-2.5
-                  lg:py-3
+                  text-sm
+                  px-6
+                  py-3
                   rounded-full
                   shadow-lg
                   hover:scale-105
@@ -229,12 +248,16 @@ export default function PlanGobierno() {
                   whitespace-nowrap
                 "
               >
-                <Download size={15} />
+                <Download size={18} />
                 Descargar PDF
               </a>
+
             </div>
+
           </div>
+
         </motion.div>
+
       </div>
     </section>
   );
