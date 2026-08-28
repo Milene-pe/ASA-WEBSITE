@@ -1,10 +1,5 @@
 [ 
   {
-    "id": 1,
-    "imagen": "/galeria/IMG1.jpeg",
-    "descripcion": "Compartiendo en el Mercado Villa Ecológica"
-  },
-  {
     "id": 2,
     "imagen": "/galeria/IMG15.jpeg",
     "descripcion": "Comprometidos con nuestros vecinos"
