@@ -5,21 +5,40 @@
     "nombre": "Glenny Marcos Sánchez Orihuela",
     "cargo": "Candidato a Alcalde",
     "foto": "/candidatos/marcos.png",
-    "biografia": "POR COMPLETAR",
+    "biografia": ["Soy Marcos Sánchez, vecino de Pampas de Polanco y parte de esta tierra que conozco desde hace años.",
+    "He tenido la oportunidad de servir a Alto Selva Alegre como regidor y de asumir, en su momento, el despacho de la alcaldía. Pero, más allá de los cargos, me considero principalmente una persona que ha caminado junto a sus vecinos.",
+
+"Durante estos años he recorrido nuestros sectores, conversado con dirigentes y familias, escuchado sus necesidades y acompañado sus gestiones. He conocido de cerca las dificultades de la parte alta, especialmente los problemas de EVAR, saneamiento, agua, luz, vías y transitabilidad, y también las necesidades de nuestros barrios en materia de seguridad, salud y servicios públicos.",
+
+"Paralelamente, he desarrollado mi vida profesional en el sector privado, soy actualmente Gerente General de DIMEMSA S.R.L., una empresa con más de 25 años de trayectoria en el ámbito industrial y minero. Mi experiencia laboral me ha enseñado el valor del trabajo, la responsabilidad y la gestión.",
+
+"Hoy quiero poner esa experiencia al servicio de mi distrito. No porque recién conozca Alto Selva Alegre, sino porque llevo años caminando sus calles, escuchando a su gente y conociendo de cerca lo que todavía nos falta por hacer.",
+
+"Soy Marcos Sánchez. Soy vecino de Alto Selva Alegre y quiero seguir trabajando por mi pueblo."
+],
     "formacion": [
-      "POR COMPLETAR",
-      "POR COMPLETAR"
+      "Formación técnica como Electricista en SENATI.",
+      "Formación en Mantenimiento de Maquinaria Pesada en TECSUP.",
+      "Trayectoria profesional y empresarial en el sector privado, además de su experiencia en gestión municipal.",
+      "Su experiencia combina trabajo, conocimiento técnico, gestión pública y cercanía con los vecinos."
     ],
     "experiencia": [
-      "POR COMPLETAR",
-      "POR COMPLETAR"
+      "Regidor de Alto Selva Alegre durante el periodo 2015–2018.",
+      "Asumió el despacho de la alcaldía de Alto Selva Alegre en calidad de alcalde encargado en 2018.",
+      "Capacitación en primeros auxilios, RCP y rescate acuático",
+      "Primer regidor de Alto Selva Alegre durante la gestión 2023–2026",
+      "Participación y gestión en temas de obras públicas, desarrollo urbano, gestión de riesgos y atención a las necesidades de los vecinos.",
+      "Trabajo cercano con asociaciones y vecinos de la parte alta, especialmente en temas de EVAR, saneamiento y acceso a servicios básicos.",
+      "Experiencia empresarial vinculada a DIMEMSA S.R.L., con trayectoria de más de 25 años en el sector privado industrial y minero.",
+      "Ha acompañado pedidos y gestiones vecinales relacionados con vías, asfaltados, transitabilidad y servicios en sectores como Huarangal y otros puntos del distrito."
     ],
     "propuestas": [
-      "POR COMPLETAR",
-      "POR COMPLETAR",
-      "POR COMPLETAR",
-      "POR COMPLETAR",
-      "POR COMPLETAR"
+      "Saneamiento y parte alta: impulsar EVAR, saneamiento físico-legal y la gestión de agua, desagüe y electrificación donde corresponda, con un equipo especializado de abogados, arquitectos e ingenieros.",
+      "Seguridad inteligente: cámaras, inteligencia artificial, drones, geolocalización y Serenazgo para mejorar la capacidad de respuesta ante emergencias.",
+      "Salud más cerca del vecino: modernización de los establecimientos de salud y gestión de campañas y servicios médicos móviles mediante convenios.",
+      "Municipalidad digital: mesa de partes digital, seguimiento de expedientes, trámites, consultas y servicios municipales desde plataformas digitales.",
+      "Educación, trabajo y oportunidades: modernización de colegios públicos, capacitación, emprendimiento, empleo y programas como ASA Emprende.",
+      "Obras y servicios para el distrito: mejoramiento de vías, espacios públicos, limpieza, iluminación, mercados y espacios deportivos, priorizando las necesidades de cada sector."
     ],
     "redes": {
       "facebook": "https://www.facebook.com/share/14opdA1yip1/?mibextid=wwXIfr",
@@ -33,21 +52,23 @@
     "nombre": "Edgar Cuentas Reyes",
     "cargo": "Candidato a Regidor",
     "foto": "/candidatos/edgar.png",
-    "biografia": "POR COMPLETAR",
+    "biografia": "Exregidor de Alto Selva Alegre y dirigente vecinal con amplia experiencia en gestión pública y trabajo con organizaciones sociales. Conoce las necesidades de las zonas altas y las dificultades del saneamiento físico-legal. Su compromiso se centra en impulsar la formalización de propiedades y una fiscalización responsable y transparente de los recursos, obras y servicios públicos.",
     "formacion": [
-      "POR COMPLETAR",
-      "POR COMPLETAR"
+      "Secundaria Completa"
     ],
     "experiencia": [
-      "POR COMPLETAR",
-      "POR COMPLETAR"
+      "Regidor de la Municipalidad Distrital de Alto Selva Alegre",
+      "Experiencia en gestión pública y trabajo con organizaciones sociales",
+      "Años de experiencia como dirigente vecinal",
+      "Conocimiento de la problemática de las zonas altas del distrito"
     ],
     "propuestas": [
-      "POR COMPLETAR",
-      "POR COMPLETAR",
-      "POR COMPLETAR",
-      "POR COMPLETAR",
-      "POR COMPLETAR"
+      "Saneamiento físico-legal de predios",
+      "Fiscalización de obras y recursos públicos",
+      "Defensa de los intereses de los vecinos",
+      "Atención a las necesidades de las zonas altas",
+      "Gestión transparente y responsable",
+      "Seguimiento y control de proyectos municipales"
     ]
   },
   
@@ -87,8 +108,7 @@
     "foto": "/candidatos/elias.png",
     "biografia": "Soy licenciado químico de profesión, con experiencia en el sector industrial y educativo. A lo largo de mi trayectoria he demostrado compromiso, responsabilidad y vocación de servicio, trabajando tanto en el ámbito empresarial como en la formación de nuevas generaciones. Mi interés por el desarrollo de Alto Selva Alegre me motiva a participar activamente en la gestión pública, con el propósito de impulsar iniciativas que contribuyan al bienestar, la seguridad y el progreso del distrito.",
     "formacion": [
-      "Licenciado Químico - UNIVERSIDAD",
-      "POR COMPLETAR"
+      "Licenciado en Ingeniería Química - Universidad Nacional de San Agustin"
     ],
     "experiencia": [
       "Experiencia en procesos industriales y control de calidad en Productos Carmelita",
@@ -131,12 +151,13 @@
        "Representante y líder en organizaciones juveniles, académicas y de la sociedad civil."
     ],
     "propuestas": [
-      "POR COMPLETAR",
-      "POR COMPLETAR",
-      "POR COMPLETAR",
-      "POR COMPLETAR",
-      "POR COMPLETAR"
-    ]
+  "Impulsar mecanismos de transparencia y acceso a la información municipal para fortalecer la confianza de los vecinos.",
+  "Promover programas de formación ciudadana para jóvenes y vecinos, fomentando su participación en las decisiones del distrito.",
+  "Fortalecer la fiscalización y el seguimiento de las obras y proyectos municipales para garantizar una gestión responsable.",
+  "Crear espacios de diálogo permanente entre la municipalidad, organizaciones sociales, jóvenes y vecinos.",
+  "Promover programas de capacitación y orientación para jóvenes que busquen oportunidades de empleo, emprendimiento y formación.",
+  "Impulsar una gestión municipal basada en la planificación, la participación ciudadana y la rendición de cuentas."
+]
   },
 
   {
@@ -175,21 +196,86 @@
     "nombre": "Carlos Raúl Gamarra Flores",
     "cargo": "Candidato a Regidor",
     "foto": "/candidatos/gamarra.png",
-    "biografia": "Activista ambiental, Carla ha organizado jornadas de reforestación y limpieza en las principales quebradas del distrito.",
+    "biografia": "Vecino de Alto Selva Alegre, especialmente de Pampas de Polanco, donde durante años trabajó atendiendo una tienda de abarrotes y compartiendo el día a día con sus vecinos. Conoce de cerca el esfuerzo de los comerciantes y emprendedores que trabajan para sacar adelante a sus familias. Desde esa experiencia nace su compromiso de representar y apoyar a comerciantes, emprendedores, vendedores de mercados y ambulantes.",
     "formacion": [
-      "POR COMPLETAR",
-      "POR COMPLETAR"
+      "Secundaria Completa"
     ],
     "experiencia": [
-      "POR COMPLETAR",
-      "POR COMPLETAR"
+      "Comerciante y propietario de una tienda de abarrotes durante muchos años",
+      "Experiencia directa en atención y trato con los vecinos",
+      "Conocimiento de la realidad de los pequeños comerciantes",
+      "Experiencia de vida basada en el esfuerzo, trabajo y emprendimiento"
     ],
     "propuestas": [
-      "POR COMPLETAR",
-      "POR COMPLETAR",
-      "POR COMPLETAR",
-      "POR COMPLETAR",
-      "POR COMPLETAR"
+      "Defender el derecho de los comerciantes y ambulantes a trabajar dignamente",
+      "Brindar facilidades y alternativas para quienes viven del comercio diario",
+      "Trabajar por mejores condiciones para los comerciantes de los mercados",
+      "Promover el orden sin quitarle al vecino su oportunidad de ganarse la vida",
+      "Escuchar y atender las necesidades de quienes trabajan día a día",
+      "Representar a los vecinos que salen adelante con su propio esfuerzo"
+    ]
+  },
+ {
+    "id": 8,
+    "numero": 8,
+    "nombre": "Shelley Stacey Churapa Inca",
+    "cargo": "Candidata a Regidora",
+    "foto": "/candidatos/shelley.png",
+    "biografia": "Joven estudiante de Seguridad Industrial y Prevención de Riesgos, comprometida con el servicio y la construcción de espacios más seguros. Como voluntaria en refugios de animales y participante en actividades de danza, promueve el bienestar, la cultura y la participación ciudadana. Su compromiso es impulsar un Alto Selva Alegre más verde, seguro, ordenado y culturalmente activo, fortaleciendo la arborización, el cuidado de áreas verdes, la protección de los animales y el desarrollo de espacios para el arte y la cultura.",  
+    "formacion": [
+   "Estudiante del tercer semestre de Seguridad Industrial y Prevención de Riesgos",
+      "Formación orientada a la prevención y seguridad",
+      "Interés en temas ambientales y sostenibilidad"
+    ],
+   "experiencia": [
+  "Voluntaria en refugios de animales",
+  "Comprometida con la protección y bienestar de los animales",
+  "Participación en actividades de danza y expresión cultural",
+  "Participación y sensibilidad frente a problemáticas sociales, culturales y ambientales",
+  "Vocación de servicio y compromiso con su comunidad"
+],
+    "propuestas": [
+  "Protección y bienestar de los animales de compañía",
+  "Apoyo y promoción de una cultura de respeto hacia los animales",
+  "Impulso de campañas de cuidado, adopción y tenencia responsable",
+  "Mejoramiento y cuidado del ornato del distrito",
+  "Más áreas verdes y espacios públicos mejor cuidados",
+  "Promoción de la arborización en Alto Selva Alegre",
+  "Cuidado del medio ambiente y reducción de riesgos ambientales",
+  "Impulso de actividades culturales, artísticas y de danza para los vecinos",
+  "Promoción de espacios para que niños, jóvenes y adultos desarrollen sus talentos artísticos",
+  "Fortalecimiento de la identidad cultural y participación de los vecinos en actividades culturales del distrito"
+]
+  }, 
+  {
+    "id": 9,
+    "numero": 9,
+    "nombre": "Josue Sebastián Abarca Medina",
+    "cargo": "Candidato a Regidor",
+    "foto": "/candidatos/sebastian.png",
+    "biografia": "Egresado de Ingeniería Comercial, apasionado por el deporte, la creación de contenido y el aprendizaje continuo. Destaco por mi liderazgo, dinamismo, simpatía y capacidad para trabajar en equipo o de manera independiente. Cuento con experiencia en atención y comunicación con clientes y busco seguir desarrollando mis habilidades en un equipo motivado y comprometido.",
+    "formacion": [
+      "Estudiante de Ingeniería comercial",
+      "Especialización en Marketing digital",
+      "Formación y experiencia en creación de contenido digital"
+    ],
+    "experiencia": [
+      "Gestor Part Time en Time Out – Arequipa (2018 - 2024)",
+      "Lifeguard en Marriott Sound Waves – Nashville, EE.UU. (2023)",
+      "Prácticas preprofesionales en Alfil Estrategia Creativa – Arequipa (2024)",
+      "Marketing de Contenidos en Piel Canela – Mollendo (2024)",
+      "Content Creator Manager en Alfil Estrategia Creativa – Arequipa (2024 - Actualidad)",
+      "Experiencia en creación y gestión de contenido para redes sociales",
+      "Experiencia en estrategias de marketing digital y comunicación",
+      "Capacitación en primeros auxilios, RCP y rescate acuático",
+      "Experiencia de trabajo en equipos multiculturales"
+    ],
+    "propuestas": [
+      "Fortalecer la comunicación entre la municipalidad y los vecinos",
+      "Utilizar las redes sociales para acercar la gestión municipal a la población",
+      "Visibilizar el avance de obras y proyectos municipales",
+      "Generar canales de comunicación más directos y dinámicos con los vecinos",
+      " Utilizar herramientas digitales para mantener informada a la población"
     ]
   }
 ]

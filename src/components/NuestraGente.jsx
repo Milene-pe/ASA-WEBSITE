@@ -40,7 +40,7 @@ export default function NuestraGente() {
       </div>
 
       <div ref={trackRef} className="flex gap-4 overflow-x-auto scrollbar-hide snap-x snap-mandatory px-4 sm:px-6 pb-4">
-        {galeria.map((g, i) => (
+        {galeria.slice().reverse().map((g, i) => (
           <motion.div
             key={g.id}
             data-photo

@@ -4,9 +4,11 @@ import { FaTiktok } from "react-icons/fa6";
 const ENLACES = [
   { label: "Inicio", href: "#inicio" },
   { label: "Candidatos", href: "#candidatos" },
+  { label: "Plan de Gobierno", href: "#plan-gobierno" },
   { label: "Nosotros", href: "#nosotros" },
   { label: "Sorteos", href: "#sorteos" },
   { label: "Galería", href: "#galeria" },
+  
 ];
 
 export default function Footer() {

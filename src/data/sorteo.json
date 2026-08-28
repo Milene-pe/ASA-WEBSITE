@@ -7,28 +7,22 @@
     "Dale like a nuestro video de TikTok",
     "Sigue nuestra cuenta oficial",
     "Comenta la frase de la semana",
-    "Comparte la publicación",
     "Podrás reclamar tu premio en nuestros locales oficiales"
   ],
   "premios": [
   {
     "nombre": "Polo oficial",
     "cantidad": 3,
-    "icono": "Shirt"
-  },
-  {
-    "nombre": "Chalina",
-    "cantidad": 2,
     "icono": "Gift"
   },
   {
-    "nombre": "Gorra",
+    "nombre": "Plancha de Huevos x6",
     "cantidad": 2,
     "icono": "Gift"
   },
   {
     "nombre": "Bolsa sorpresa",
-    "cantidad": 3,
+    "cantidad": 5,
     "icono": "Gift"
   }
 ],

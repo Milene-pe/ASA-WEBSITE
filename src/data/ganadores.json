@@ -1,48 +1,49 @@
 [
   {
     "id": 1,
-    "fecha": "x de mes de 2026",
-    "cantidad": 10,
+    "fecha": "5 de setiembre de 2026",
+    "cantidad": 10
+    ,
     "ganadores": [
       {
-        "nombre": "",
-        "premio": ""
+        "nombre": "Próximamente",
+        "premio": "Plancha de huevos"
       },
       {
-        "nombre": "",
-        "premio": ""
+        "nombre": "Próximamente",
+        "premio": "Plancha de huevos"
       },
       {
-       "nombre": "",
-        "premio": ""
+       "nombre": "Próximamente",
+        "premio": "Polo oficial"
       },
       {
-        "nombre": "",
-        "premio": ""
+        "nombre": "Próximamente",
+        "premio": "Polo oficial"
       },
       {
-        "nombre": "",
-        "premio": ""
+        "nombre": "Próximamente",
+        "premio": "Polo oficial"
       },
       {
-        "nombre": "",
-        "premio": ""
+        "nombre": "Próximamente",
+        "premio": "Bolsa sorpresa"
       },
       {
-        "nombre": "",
-        "premio": ""
+        "nombre": "Próximamente",
+        "premio": "Bolsa sorpresa"
       },
       {
-        "nombre": "",
-        "premio": ""
+         "nombre": "Próximamente",
+        "premio": "Bolsa sorpresa"
       },
       {
-       "nombre": "",
-        "premio": ""
+        "nombre": "Próximamente",
+        "premio": "Bolsa sorpresa"
       },
       {
-        "nombre": "",
-        "premio": ""
+         "nombre": "Próximamente",
+        "premio": "Bolsa sorpresa"
       }
     ]
   }

@@ -8,6 +8,7 @@ const LINKS = [
   { label: "Inicio", href: "#inicio" },
   { label: "Nosotros", href: "#nosotros" },
   { label: "Candidatos", href: "#candidatos" },
+  { label: "Plan de Gobierno", href: "#plan-gobierno" },
   { label: "Galería", href: "#galeria" },
   { label: "Sorteos", href: "#sorteos" },
 ];

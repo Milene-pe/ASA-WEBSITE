@@ -1,89 +1,88 @@
-[
+[ 
   {
     "id": 1,
     "imagen": "/galeria/IMG1.jpeg",
-    "descripcion": "Compartiendo con nuestros vecinos"
+    "descripcion": "Compartiendo en el Mercado Villa Ecológica"
   },
   {
     "id": 2,
-    "imagen": "/galeria/IMG2.jpeg",
-    "descripcion": "Trabajando junto a nuestra gente"
+    "imagen": "/galeria/IMG15.jpeg",
+    "descripcion": "Comprometidos con nuestros vecinos"
   },
   {
     "id": 3,
-    "imagen": "/galeria/IMG3.jpeg",
-    "descripcion": "Actividades con nuestros vecinos"
+    "imagen": "/galeria/IMG14.jpeg",
+    "descripcion": "Celebrando tradiciones"
   },
   {
     "id": 4,
-    "imagen": "/galeria/IMG4.jpeg",
-    "descripcion": "Juntos por Alto Selva Alegre"
+    "imagen": "/galeria/IMG13.jpeg",
+    "descripcion": "Comprometidos con la seguridad"
   },
   {
     "id": 5,
-    "imagen": "/galeria/IMG5.jpeg",
-    "descripcion": "Juntos por Alto Selva Alegre"
+    "imagen": "/galeria/IMG12.jpeg",
+    "descripcion": "Mercado Villa Hermoza"
   },
   {
     "id": 6,
-    "imagen": "/galeria/IMG6.jpeg",
-    "descripcion": "Juntos por Alto Selva Alegre"
+    "imagen": "/galeria/IMG11.jpeg",
+    "descripcion": "Plan de riegos Programa Municipal"
   },
     {
     "id": 7,
-    "imagen": "/galeria/IMG7.jpeg",
-    "descripcion": "Juntos por Alto Selva Alegre"
+     "imagen": "/galeria/IMG10.jpeg",
+    "descripcion": "Comprometidos con la educación"
   },
     {
     "id": 8,
-    "imagen": "/galeria/IMG8.jpeg",
-    "descripcion": "Juntos por Alto Selva Alegre"
+    "imagen": "/galeria/IMG9.jpeg",
+    "descripcion": "Comprometidos con la seguridad - Calle Alianza"
   },
     {
     "id": 9,
-    "imagen": "/galeria/IMG9.jpeg",
-    "descripcion": "Juntos por Alto Selva Alegre"
+    "imagen": "/galeria/IMG8.jpeg",
+    "descripcion": "Apoyando el deporte"
   },
     {
     "id": 10,
-    "imagen": "/galeria/IMG10.jpeg",
-    "descripcion": "Juntos por Alto Selva Alegre"
+     "imagen": "/galeria/IMG7.jpeg",
+    "descripcion": "Compartiendo nuestra cultura - Bella Esperanza"
   },
     {
     "id": 11,
-    "imagen": "/galeria/IMG11.jpeg",
-    "descripcion": "Juntos por Alto Selva Alegre"
+    "imagen": "/galeria/IMG6.jpeg",
+    "descripcion": "Comprometidos con la salud - Centro de Salud ASA"
   },
     {
     "id": 12,
-    "imagen": "/galeria/IMG12.jpeg",
-    "descripcion": "Juntos por Alto Selva Alegre"
+    "imagen": "/galeria/IMG5.jpeg",
+    "descripcion": "Comprometidos con nuestros vecinos de Z33"
   },
     {
     "id": 13,
-    "imagen": "/galeria/IMG13.jpeg",
+     "imagen": "/galeria/IMG4.jpeg",
     "descripcion": "Juntos por Alto Selva Alegre"
   },
     {
     "id": 14,
-    "imagen": "/galeria/IMG14.jpeg",
-    "descripcion": "Juntos por Alto Selva Alegre"
+    "imagen": "/galeria/IMG3.jpeg",
+    "descripcion": "Presentes en el Mercado de Parque Temático"
   },
     {
     "id": 15,
-    "imagen": "/galeria/IMG15.jpeg",
-    "descripcion": "Juntos por Alto Selva Alegre"
+    "imagen": "/galeria/IMG2.jpeg",
+    "descripcion": "Presentes en tiempo de lluvia - Bella Esperanza"
   },
     {
     "id": 16,
-    "imagen": "/galeria/IMG16.jpeg",
-    "descripcion": "Juntos por Alto Selva Alegre"
+    "imagen": "/galeria/IMG1.jpeg",
+    "descripcion": "Compartiendo en el Mercado Villa Ecológica"
   },
-    {
+  {
     "id": 17,
-    "imagen": "/galeria/IMG17.jpeg",
-    "descripcion": "Juntos por Alto Selva Alegre"
+    "imagen": "/galeria/IMG17.PNG",
+    "descripcion": "Día del Adulto Mayor"
   }
-  
   
 ]

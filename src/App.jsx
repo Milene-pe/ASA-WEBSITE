@@ -12,6 +12,7 @@ import SorteoModal from "./components/SorteoModal.jsx";
 import Stats from "./components/Stats.jsx";
 import UneteModal from "./components/UneteModal.jsx";
 import Ganadores from "./components/Ganadores.jsx";
+import PlanGobierno from './components/PlanGobierno.jsx'
 
 export default function App() {
   // Modal de sorteos
@@ -40,6 +41,8 @@ export default function App() {
 
       {/* SECCIONES */}
       <QuienesSomos />
+
+      <PlanGobierno />
 
       <Candidatos
         onVerPerfil={setCandidatoActivo}
