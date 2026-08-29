@@ -226,7 +226,7 @@ export default function PlanGobierno() {
               {/* BOTÓN */}
 
               <a
-                href="/documentos/plan.pdf"
+                href="/documentos/PlanGobiernoASA.pdf"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="
